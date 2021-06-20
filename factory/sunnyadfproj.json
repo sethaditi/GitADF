@@ -1,0 +1,9 @@
+{
+	"name": "sunnyadfproj",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ff0e1d6-e878-470b-b45e-7ac2c1bd2eb1",
+		"tenantId": "3574f09f-270b-4703-bc97-ef7e73ac9760"
+	}
+}
